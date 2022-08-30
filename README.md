@@ -1,8 +1,8 @@
-## Descripción
+## Descripción 🏖️
 
 Este es un portfolio creado con HTML, CSS y Javascrpt usando metodología BEM y una arquitectura ITCSS
 
-## Autor 
+## Autor ✒
 **Felipe Cruz**
 
 [LinkedIn](https://www.linkedin.com/in/felipecruzpro/) 
