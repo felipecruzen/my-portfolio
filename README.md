@@ -9,7 +9,7 @@ Este es un portfolio creado con HTML, CSS y Javascrpt usando metodología BEM y 
 * [Porfolio web] (https://www.felipecruzpro.com/)
 
 ## Ver ejemplo en vivo
-- [ENLACEGITHUBPAGES](ENLACEGITHUBPAGES)
+- [https://felipecruzpro.github.io/my-portfolio/](https://felipecruzpro.github.io/my-portfolio/)
 
 ## Instalación 
 Este proyecto no necesita de instalación. Simplemente abre la carpeta 0 haz doble click en el. html
