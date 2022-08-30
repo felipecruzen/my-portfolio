@@ -5,8 +5,8 @@ Este es un portfolio creado con HTML, CSS y Javascrpt usando metodología BEM y 
 ## Autor ✒
 **Felipe Cruz**
 
-[LinkedIn](https://www.linkedin.com/in/felipecruzpro/) 
-[Porfolio web] (https://www.felipecruzpro.com/)
+* [LinkedIn](https://www.linkedin.com/in/felipecruzpro/) 
+* [Porfolio web] (https://www.felipecruzpro.com/)
 
 ## Ver ejemplo en vivo
 - [ENLACEGITHUBPAGES](ENLACEGITHUBPAGES)
